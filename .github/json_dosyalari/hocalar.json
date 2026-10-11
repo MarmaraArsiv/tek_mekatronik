@@ -1,0 +1,570 @@
+{
+    "bolum_adi": "Hocalar",
+    "bolum_aciklamasi": "📚 Bu bölüm, Marmara Üniversitesi Teknoloji Fakültesi Mekatronik Mühendisliği bölümündeki hocaların detaylı bilgilerini içerir. Hocaların adları, ofis bilgileri, araştırma sayfalarının bağlantıları ve verdikleri bazı dersler bu bölümde listelenmektedir. Hocaların puanlamaları tamamen subjektiftir ve 0-10 yıldız arasında yapılmıştır.",
+    "gruplar": [
+        {
+            "ad": "Profesörler",
+            "aciklama": ""
+        },
+        {
+            "ad": "Doçentler",
+            "aciklama": ""
+        },
+        {
+            "ad": "Doktor Öğretim Üyeleri",
+            "aciklama": ""
+        },
+        {
+            "ad": "Öğretim Görevlileri",
+            "aciklama": ""
+        },
+        {
+            "ad": "Araştırma Görevlileri",
+            "aciklama": ""
+        },
+        {
+            "ad": "Diğer Bölümlerden Ders Veren Hocalar",
+            "aciklama": "Bölüme servis dersi (Fizik, Matematik, Kimya, Türk Dili, İngilizce vb.) veren, başka bölümlerden gelen hocalar."
+        },
+        {
+            "ad": "Önceki Yıllarda Ders Veren Hocalar",
+            "aciklama": "Son iki akademik yılda bölümde dersi görünmeyen hocalar."
+        }
+    ],
+    "hocalar": [
+        {
+            "ad": "Öğr. Gör. Abdullah Mert Pekel",
+            "kisaltma": "AMP",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": true,
+            "dersler": [
+                "İngilizce 1",
+                "İngilizce 2"
+            ]
+        },
+        {
+            "ad": "Doç. Dr. Ahmet Özbek",
+            "kisaltma": "AÖ",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": true,
+            "dersler": [
+                "Rapor Hazırlama ve Sunum Teknikleri"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Aysu Öztürk",
+            "kisaltma": "AÖZT",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": false,
+            "dersler": [
+                "İngilizce 1"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Barış Doğan",
+            "kisaltma": "BD",
+            "grup": "Doktor Öğretim Üyeleri",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Bilgisayar Sistemlerine Giriş",
+                "Otomatik Kontrol Sistemleri",
+                "Bitirme Projesi",
+                "Elektrik Motor Sürücüleri",
+                "Esnek İmalat Sistemleri",
+                "İleri Otomatik Kontrol"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Ersin Şahin",
+            "kisaltma": "EŞ",
+            "grup": "Doktor Öğretim Üyeleri",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Matematik 1",
+                "Bilgisayar Sistemlerine Giriş",
+                "Matematik 2",
+                "Diferansiyel Denklemler",
+                "Yapay Zeka Sistemleri",
+                "Bitirme Projesi",
+                "Görüntü İşleme"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Ersin Toptaş",
+            "kisaltma": "ET",
+            "grup": "Doktor Öğretim Üyeleri",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Statik",
+                "Dinamik",
+                "Bilgisayar Destekli Tasarım",
+                "Bilgisayar Destekli İmalat",
+                "İş Yeri Eğitimi",
+                "Bitirme Projesi",
+                "Esnek İmalat Sistemleri",
+                "Kalite Mühendisliği ve 6 Sigma Endüstriyel Uygulamaları",
+                "Sonlu Elemanlara Giriş"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Ertuğrul Çetinsoy",
+            "kisaltma": "EÇ",
+            "grup": "Doktor Öğretim Üyeleri",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Matematik 1",
+                "Lineer Cebir",
+                "Matematik 2",
+                "Mikrodenetleyiciler",
+                "Robot Tekniği",
+                "Otomatik Kontrol Sistemleri",
+                "Gömülü Sistemler ve Uygulamaları",
+                "Bitirme Projesi",
+                "İleri Robotik"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Garip Genç",
+            "kisaltma": "GG",
+            "grup": "Profesörler",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Bilgisayar Destekli Çizim",
+                "Teknik Resim",
+                "Mukavemet",
+                "Bilgisayar Destekli İmalat",
+                "Mekanik Yapı Elemanları",
+                "İş Yeri Eğitimi",
+                "Bitirme Projesi"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. Gazi Akgün",
+            "kisaltma": "GA",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": true,
+            "dersler": [
+                "Sayısal Sistemler",
+                "Yapay Zeka Sistemleri",
+                "Programlanabilir Lojik Kontrolörler",
+                "İş Yeri Eğitimi",
+                "Bitirme Projesi",
+                "Görüntü İşleme",
+                "Endüstriyel Kontrol ve Sürücü Sistemleri",
+                "Proses Kontrol",
+                "Sayısal Kontrol"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Gökhan Gökmen",
+            "kisaltma": "GGÖK",
+            "grup": "Profesörler",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Güç Elektroniği",
+                "Algılama ve Veri Toplama",
+                "Bitirme Projesi",
+                "Elektromekanik Sistemler",
+                "Endüstriyel Ölçme"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Hüseyin Yüce",
+            "kisaltma": "HY",
+            "grup": "Doktor Öğretim Üyeleri",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Bilgisayar Sistemlerine Giriş",
+                "Bilgisayar Programlama",
+                "İş Yeri Eğitimi",
+                "Bitirme Projesi",
+                "Nesne Tabanlı Programlama"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. Işıl Ruacan Silahtaroğlu",
+            "kisaltma": "IRS",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": false,
+            "dersler": [
+                "İngilizce 1",
+                "İngilizce 2"
+            ]
+        },
+        {
+            "ad": "Doç. Dr. İlyas Kartal",
+            "kisaltma": "İK",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": true,
+            "dersler": [
+                "Rapor Hazırlama ve Sunum Teknikleri"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. İrem Konca",
+            "kisaltma": "İKON",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": false,
+            "dersler": [
+                "İngilizce 1",
+                "İngilizce 2"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi İsmail Temiz",
+            "kisaltma": "İT",
+            "grup": "Doktor Öğretim Üyeleri",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Mekatronik Mühendisliğine Giriş",
+                "İş Sağlığı ve Güvenliği",
+                "Elektrik Makineleri ve Uygulamaları",
+                "Hidrolik ve Pnömatik Sistemler",
+                "Robot Tekniği",
+                "İş Yeri Eğitimi",
+                "Bitirme Projesi",
+                "Elektromekanik Sistemler",
+                "Endüstride Otomasyon Sistemleri ve Kestirimci Bakım Uygulamaları",
+                "Otomasyonda Özel Elektrik Makineleri",
+                "Çevre ve Enerji"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Koray Erhan",
+            "kisaltma": "KE",
+            "grup": "Doktor Öğretim Üyeleri",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Ölçme Tekniği",
+                "Programlanabilir Lojik Kontrolörler",
+                "Güç Elektroniği",
+                "Bitirme Projesi",
+                "Elektrikle Tahrik Sistemleri",
+                "Enerji Depolama Sistemleri",
+                "Mekatronik Sistem Tasarımı",
+                "Modern Seyrüsefer Sistemleri",
+                "Otonom Robotlar",
+                "Taşıt Mekatroniği"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Mehmet Fatih Çelebi",
+            "kisaltma": "MFÇ",
+            "grup": "Doktor Öğretim Üyeleri",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Sayısal Sistemler",
+                "Bitirme Projesi",
+                "Görüntü İşleme",
+                "Sayısal Kontrol",
+                "Bilim Tarihi"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. Mehmet Kocakaplan",
+            "kisaltma": "MK",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Türk Dili 1",
+                "Türk Dili 2"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. Mehmet Vehbi Büker",
+            "kisaltma": "MVB",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": true,
+            "dersler": [
+                "Türk Dili 1",
+                "Türk Dili 2"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Mustafa Atmaca",
+            "kisaltma": "MA",
+            "grup": "Profesörler",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Termo-Akışkan"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Mustafa Caner Aküner",
+            "kisaltma": "MCA",
+            "grup": "Profesörler",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Devre Analizi",
+                "Mühendisler için İstatistik",
+                "İş Yeri Eğitimi",
+                "Bitirme Projesi",
+                "Elektrikli Araç Teknolojileri",
+                "Endüstride Dijital Dönüşüm - Dijital Hamle-A",
+                "VHDL ile Dijital Sistem Tasarımı",
+                "Liderlik"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Mutlu Balkan",
+            "kisaltma": "MB",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Robot Tekniği",
+                "İleri Robotik",
+                "Robotlu Kaynak Teknolojisi"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. Nurgül Yıldız",
+            "kisaltma": "NY",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": false,
+            "dersler": [
+                "Türk Dili 1",
+                "Türk Dili 2"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Oya Ayhan Girit",
+            "kisaltma": "OAG",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": false,
+            "dersler": [
+                "Atatürk İlkeleri ve İnkılap Tarihi 1",
+                "Atatürk İlkeleri ve İnkılap Tarihi 2"
+            ]
+        },
+        {
+            "ad": "Doç. Dr. Özge Akay Sefer",
+            "kisaltma": "ÖAS",
+            "grup": "Doçentler",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": false,
+            "dersler": [
+                "Fizik 1",
+                "Fizik 2",
+                "Temel Elektromanyetik",
+                "Bitirme Projesi",
+                "Yarı İletken Fiziği",
+                "Girişimcilik ve İnovasyon",
+                "Rapor Hazırlama ve Sunum Teknikleri"
+            ]
+        },
+        {
+            "ad": "Doç. Dr. Sabahattin Deniz",
+            "kisaltma": "SD",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Kimya"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Sanem Soner",
+            "kisaltma": "SS",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": false,
+            "dersler": [
+                "İngilizce 2"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Sezgin Ersoy",
+            "kisaltma": "SE",
+            "grup": "Profesörler",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": null,
+            "dersler": [
+                "İş Sağlığı ve Güvenliği",
+                "İş Yeri Eğitimi",
+                "Bitirme Projesi",
+                "Biyomedikal Cihazlar",
+                "Malzeme Bilimi ve Muayenesi",
+                "Taşıt Mekatroniği",
+                "Titreşim ve Akustik",
+                "Bilim Tarihi",
+                "Kalite Yönetimi"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Şahin Uyaver",
+            "kisaltma": "ŞU",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": true,
+            "dersler": [
+                "Fizik 2"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Ufuk Alemdaroğlu",
+            "kisaltma": "UA",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": null,
+            "dersler": [
+                "Mekatronik Sistem Tasarımı"
+            ]
+        },
+        {
+            "ad": "Doç. Dr. Uğur Demir",
+            "kisaltma": "UD",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": true,
+            "dersler": [
+                "Lineer Cebir",
+                "Diferansiyel Denklemler",
+                "Gömülü Sistemler ve Uygulamaları",
+                "Bitirme Projesi",
+                "İleri Otomatik Kontrol",
+                "Otonom Robotlar",
+                "Sistem Dinamiği ve Modelleme"
+            ]
+        },
+        {
+            "ad": "Dr. Öğretim Üyesi Uğur Kesen",
+            "kisaltma": "UK",
+            "grup": "Doktor Öğretim Üyeleri",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "Elektronik 1",
+                "Sayısal Sistemler",
+                "Elektronik 2",
+                "İş Yeri Eğitimi",
+                "Bitirme Projesi",
+                "Endüstriyel Haberleşme ve SCADA Uygulamaları"
+            ]
+        },
+        {
+            "ad": "Prof. Dr. Yahya Bozkurt",
+            "kisaltma": "YB",
+            "grup": "Diğer Bölümlerden Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": true,
+            "erkek_mi": true,
+            "dersler": [
+                "İş Sağlığı ve Güvenliği 1"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Dr. Yasemin Bulut",
+            "kisaltma": "YBUL",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": false,
+            "dersler": [
+                "Türk Dili 1",
+                "Türk Dili 2"
+            ]
+        },
+        {
+            "ad": "Öğr. Gör. Zeynep Başak Ergen",
+            "kisaltma": "ZBE",
+            "grup": "Önceki Yıllarda Ders Veren Hocalar",
+            "ofis": "",
+            "link": "",
+            "hoca_aktif_gorevde_mi": false,
+            "erkek_mi": false,
+            "dersler": [
+                "İş Hukuku ve Etiği"
+            ]
+        }
+    ]
+}

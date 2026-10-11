@@ -1,0 +1,71 @@
+# 📚 Mesleki Seçmeli
+
+
+
+## 📋 Ders Listesi
+
+
+- 📘 [Algılayıcılar ve Eyleyiciler](./Alg%C4%B1lay%C4%B1c%C4%B1lar%20ve%20Eyleyiciler/) _(🏷️ 2026 Sonrası)_
+- 📘 [Bilgi Güvenliği](./Bilgi%20G%C3%BCvenli%C4%9Fi/) _(🏷️ Her İki Müfredat)_
+- 📘 [Biyomedikal Cihazlar](./Biyomedikal%20Cihazlar/) _(🏷️ Her İki Müfredat)_
+- 📘 [Biyomekatronik](./Biyomekatronik/) _(🏷️ 2026 Sonrası)_
+- 📘 [Deneysel Metodlar](./Deneysel%20Metodlar/) _(🏷️ 2026 Öncesi)_
+- 📘 [Deneysel Mukavemet](./Deneysel%20Mukavemet/) _(🏷️ 2026 Öncesi)_
+- 📘 [Eklemeli İmalat](./Eklemeli%20%C4%B0malat/) _(🏷️ 2026 Sonrası)_
+- 📘 [Elektrik Motor Sürücüleri](./Elektrik%20Motor%20S%C3%BCr%C3%BCc%C3%BCleri/) _(🏷️ Her İki Müfredat)_
+- 📘 [Elektrikle Tahrik Sistemleri](./Elektrikle%20Tahrik%20Sistemleri/) _(🏷️ Her İki Müfredat)_
+- 📘 [Elektrikli Araç Teknolojileri](./Elektrikli%20Ara%C3%A7%20Teknolojileri/) _(🏷️ 2026 Öncesi)_
+- 📘 [Elektromekanik Enerji Dönüşümü](./Elektromekanik%20Enerji%20D%C3%B6n%C3%BC%C5%9F%C3%BCm%C3%BC/) _(🏷️ Her İki Müfredat)_
+- 📘 [Elektromekanik Kumanda Tekniği](./Elektromekanik%20Kumanda%20Tekni%C4%9Fi/) _(🏷️ 2026 Sonrası)_
+- 📘 [Elektromekanik Sistemler](./Elektromekanik%20Sistemler/) _(🏷️ 2026 Öncesi)_
+- 📘 [Endüstride Dijital Dönüşüm - Dijital Hamle-A](./End%C3%BCstride%20Dijital%20D%C3%B6n%C3%BC%C5%9F%C3%BCm%20-%20Dijital%20Hamle-A/) _(🏷️ Her İki Müfredat)_
+- 📘 [Endüstride Otomasyon Sistemleri ve Kestirimci Bakım Uygulamaları](./End%C3%BCstride%20Otomasyon%20Sistemleri%20ve%20Kestirimci%20Bak%C4%B1m%20Uygulamalar%C4%B1/) _(🏷️ Her İki Müfredat)_
+- 📘 [Endüstriyel Kontrol ve Sürücü Sistemleri](./End%C3%BCstriyel%20Kontrol%20ve%20S%C3%BCr%C3%BCc%C3%BC%20Sistemleri/) _(🏷️ Her İki Müfredat)_
+- 📘 [Endüstriyel Ölçme](./End%C3%BCstriyel%20%C3%96l%C3%A7me/) _(🏷️ 2026 Öncesi)_
+- 📘 [Enerji Depolama Sistemleri](./Enerji%20Depolama%20Sistemleri/) _(🏷️ Her İki Müfredat)_
+- 📘 [Esnek İmalat Sistemleri](./Esnek%20%C4%B0malat%20Sistemleri/) _(🏷️ Her İki Müfredat)_
+- 📘 [Esnek Robotik](./Esnek%20Robotik/) _(🏷️ 2026 Sonrası)_
+- 📘 [Eşzamanlı Geometrik Boyutlandırma (CMM)](./E%C5%9Fzamanl%C4%B1%20Geometrik%20Boyutland%C4%B1rma%20%28CMM%29/) _(🏷️ 2026 Öncesi)_
+- 📘 [İleri Bilgisayar Destekli İmalat](./%C4%B0leri%20Bilgisayar%20Destekli%20%C4%B0malat/) _(🏷️ 2026 Öncesi)_
+- 📘 [İleri Hidrolik Pnömatik Sistemler](./%C4%B0leri%20Hidrolik%20Pn%C3%B6matik%20Sistemler/) _(🏷️ 2026 Sonrası)_
+- 📘 [İleri Otomatik Kontrol](./%C4%B0leri%20Otomatik%20Kontrol/) _(🏷️ Her İki Müfredat)_
+- 📘 [İleri PLC ve SCADA Uygulamaları](./%C4%B0leri%20PLC%20ve%20SCADA%20Uygulamalar%C4%B1/) _(🏷️ Her İki Müfredat)_
+- 📘 [İleri Robotik](./%C4%B0leri%20Robotik/) _(🏷️ Her İki Müfredat)_
+- 📘 [İleri Tasarım ve Modelleme](./%C4%B0leri%20Tasar%C4%B1m%20ve%20Modelleme/) _(🏷️ Her İki Müfredat)_
+- 📘 [İleri Üretim Teknolojileri](./%C4%B0leri%20%C3%9Cretim%20Teknolojileri/) _(🏷️ Her İki Müfredat)_
+- 📘 [Java Programlama](./Java%20Programlama/) _(🏷️ 2026 Öncesi)_
+- 📘 [Kablosuz Teknolojilere Giriş](./Kablosuz%20Teknolojilere%20Giri%C5%9F/) _(🏷️ 2026 Sonrası)_
+- 📘 [Kalite Mühendisliği ve 6 Sigma Endüstriyel Uygulamaları](./Kalite%20M%C3%BChendisli%C4%9Fi%20ve%206%20Sigma%20End%C3%BCstriyel%20Uygulamalar%C4%B1/) _(🏷️ 2026 Öncesi)_
+- 📘 [Konumlandırma Tekniği](./Konumland%C4%B1rma%20Tekni%C4%9Fi/) _(🏷️ 2026 Öncesi)_
+- 📘 [Makine Öğrenmesi](./Makine%20%C3%96%C4%9Frenmesi/) _(🏷️ 2026 Sonrası)_
+- 📘 [Malzeme Bilimi ve Muayenesi](./Malzeme%20Bilimi%20ve%20Muayenesi/) _(🏷️ Her İki Müfredat)_
+- 📘 [Malzemelerin Elektrik, Manyetik ve Optik Özellikleri](./Malzemelerin%20Elektrik%2C%20Manyetik%20ve%20Optik%20%C3%96zellikleri/) _(🏷️ 2026 Öncesi)_
+- 📘 [Mekanik Ölçme ve Endüstriyel Uygulamalar](./Mekanik%20%C3%96l%C3%A7me%20ve%20End%C3%BCstriyel%20Uygulamalar/) _(🏷️ 2026 Öncesi)_
+- 📘 [Mekanik Sistemlerin Tasarımı ve Analizi](./Mekanik%20Sistemlerin%20Tasar%C4%B1m%C4%B1%20ve%20Analizi/) _(🏷️ Her İki Müfredat)_
+- 📘 [Mekatronik Sistem Elemanları](./Mekatronik%20Sistem%20Elemanlar%C4%B1/) _(🏷️ 2026 Sonrası)_
+- 📘 [Mekatronik Sistem Tasarımı](./Mekatronik%20Sistem%20Tasar%C4%B1m%C4%B1/) _(🏷️ Her İki Müfredat)_
+- 📘 [MEMS Teknolojileri](./MEMS%20Teknolojileri/) _(🏷️ 2026 Sonrası)_
+- 📘 [Mikro Makineler](./Mikro%20Makineler/) _(🏷️ Her İki Müfredat)_
+- 📘 [Modern Seyrüsefer Sistemleri](./Modern%20Seyr%C3%BCsefer%20Sistemleri/) _(🏷️ Her İki Müfredat)_
+- 📘 [Nesne Tabanlı Programlama](./Nesne%20Tabanl%C4%B1%20Programlama/) _(🏷️ Her İki Müfredat)_
+- 📘 [Otomasyonda Özel Elektrik Makineleri](./Otomasyonda%20%C3%96zel%20Elektrik%20Makineleri/) _(🏷️ Her İki Müfredat)_
+- 📘 [Otonom Robotlar](./Otonom%20Robotlar/) _(🏷️ Her İki Müfredat)_
+- 📘 [Proses Kontrol](./Proses%20Kontrol/) _(🏷️ Her İki Müfredat)_
+- 📘 [Robotlu Kaynak Teknolojisi](./Robotlu%20Kaynak%20Teknolojisi/) _(🏷️ Her İki Müfredat)_
+- 📘 [Sanal Üretim Tasarımı ve Optimizasyonu](./Sanal%20%C3%9Cretim%20Tasar%C4%B1m%C4%B1%20ve%20Optimizasyonu/) _(🏷️ 2026 Öncesi)_
+- 📘 [Sayısal Kontrol](./Say%C4%B1sal%20Kontrol/) _(🏷️ Her İki Müfredat)_
+- 📘 [Sensörler ve Algılayıcılar](./Sens%C3%B6rler%20ve%20Alg%C4%B1lay%C4%B1c%C4%B1lar/) _(🏷️ 2026 Öncesi)_
+- 📘 [Sistem Bakımı ve Hata Arama](./Sistem%20Bak%C4%B1m%C4%B1%20ve%20Hata%20Arama/) _(🏷️ Her İki Müfredat)_
+- 📘 [Sistem Dinamiği ve Modelleme](./Sistem%20Dinami%C4%9Fi%20ve%20Modelleme/) _(🏷️ Her İki Müfredat)_
+- 📘 [Sonlu Elemanlara Giriş](./Sonlu%20Elemanlara%20Giri%C5%9F/) _(🏷️ 2026 Öncesi)_
+- 📘 [Tahribatsız Malzeme Muayenesi](./Tahribats%C4%B1z%20Malzeme%20Muayenesi/) _(🏷️ Her İki Müfredat)_
+- 📘 [Tasarımda Sonlu Elemanlar Analizi](./Tasar%C4%B1mda%20Sonlu%20Elemanlar%20Analizi/) _(🏷️ 2026 Sonrası)_
+- 📘 [Taşıt Mekatroniği](./Ta%C5%9F%C4%B1t%20Mekatroni%C4%9Fi/) _(🏷️ Her İki Müfredat)_
+- 📘 [Titreşim ve Akustik](./Titre%C5%9Fim%20ve%20Akustik/) _(🏷️ Her İki Müfredat)_
+- 📘 [Üretim Teknikleri ve Uygulamaları](./%C3%9Cretim%20Teknikleri%20ve%20Uygulamalar%C4%B1/) _(🏷️ Her İki Müfredat)_
+- 📘 [Ürün Tasarımı ve Prototipleme](./%C3%9Cr%C3%BCn%20Tasar%C4%B1m%C4%B1%20ve%20Prototipleme/) _(🏷️ Her İki Müfredat)_
+- 📘 [Veri Yapıları](./Veri%20Yap%C4%B1lar%C4%B1/) _(🏷️ 2026 Sonrası)_
+- 📘 [Veri Yönetim Sistemleri](./Veri%20Y%C3%B6netim%20Sistemleri/) _(🏷️ 2026 Öncesi)_
+- 📘 [VHDL ile Dijital Sistem Tasarımı](./VHDL%20ile%20Dijital%20Sistem%20Tasar%C4%B1m%C4%B1/) _(🏷️ Her İki Müfredat)_
+- 📘 [Yarı İletken Cihazlar](./Yar%C4%B1%20%C4%B0letken%20Cihazlar/) _(🏷️ 2026 Öncesi)_
+- 📘 [Yarı İletken Fiziği](./Yar%C4%B1%20%C4%B0letken%20Fizi%C4%9Fi/) _(🏷️ Her İki Müfredat)_

@@ -1,0 +1,25 @@
+{
+    "github_url": "https://github.com/MarmaraArsiv/tek_mekatronik",
+    "hoca_yorumlama": "",
+    "hoca_oylama": "",
+    "ders_yorumlama": "",
+    "ders_oylama": "",
+    "ders_oylama_csv": "",
+    "ders_yorumlama_csv": "",
+    "hoca_oylama_csv": "",
+    "hoca_yorumlama_csv": "",
+    "dokumanlar_repo_yolu": "../..",
+    "cikmislar": "",
+    "formlar": {},
+    "mufredat": {
+        "secenekler": [
+            "Her İki Müfredat",
+            "2026 Öncesi",
+            "2026 Sonrası",
+            "2026 Öncesi (Zorunlu)"
+        ],
+        "eski_mufredat_oneki": "2026 Öncesi",
+        "eski_mufredat_notu_yili": "2026-2027",
+        "eski_mufredat_notu": "bu yıl yeni girenler bu dersi alamaz; ders yalnızca 2026 öncesi müfredattaki öğrenciler için açıldı"
+    }
+}
