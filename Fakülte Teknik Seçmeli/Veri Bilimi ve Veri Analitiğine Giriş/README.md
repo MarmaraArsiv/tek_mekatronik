@@ -6,9 +6,9 @@
 - 🏷️ **Müfredat:** 2026 Sonrası
     - ℹ️ 2026 öncesi müfredatta bu havuzun karşılığı yok, tamamen yeni bir seçmeli havuzudur.
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSfTRJTTY53-Ug5jtBnOFHQ4I8-jfSLU2C8g_etgvA3y0Gb2bQ/viewform?usp=pp_url&entry.380326104=Veri%20Bilimi%20ve%20Veri%20Analiti%C4%9Fine%20Giri%C5%9F) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSd5-R3qdn5BOVYy4Eb2TR-0Dj0-EbH724hWtz6OXWiyzjhPEg/viewform?usp=pp_url&entry.659808212=Veri%20Bilimi%20ve%20Veri%20Analiti%C4%9Fine%20Giri%C5%9F) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 

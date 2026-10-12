@@ -10,7 +10,29 @@
     "hoca_yorumlama_csv": "",
     "dokumanlar_repo_yolu": "../..",
     "cikmislar": "",
-    "formlar": {},
+    "formlar": {
+        "hoca_yorumlama": {
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSfqY08FbRI_H4qhLwqeaIUbCaDnePai_3RHfHOKee2ZZriSHw/viewform",
+            "hoca_alani": "1937243189",
+            "isim_alani": "1236677244",
+            "yorum_alani": "1815894511",
+            "hoca_yorumlama_csv": "https://docs.google.com/spreadsheets/d/1GCU_SMJ52QJnA1pdfukoYvB614qrwIoiH_xMGI-DTBU/export?format=csv&gid=668585223"
+        },
+        "ders_yorumlama": {
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSd5-R3qdn5BOVYy4Eb2TR-0Dj0-EbH724hWtz6OXWiyzjhPEg/viewform",
+            "ders_alani": "659808212",
+            "isim_alani": "1141587848",
+            "yorum_alani": "1925981303",
+            "ders_yorumlama_csv": "https://docs.google.com/spreadsheets/d/1GCU_SMJ52QJnA1pdfukoYvB614qrwIoiH_xMGI-DTBU/export?format=csv&gid=443224305"
+        },
+        "ders_oylama": {
+            "link": "https://docs.google.com/forms/d/e/1FAIpQLSfTRJTTY53-Ug5jtBnOFHQ4I8-jfSLU2C8g_etgvA3y0Gb2bQ/viewform",
+            "ders_alani": "380326104",
+            "kolaylik_alani": "559183326",
+            "gereklilik_alani": "761364771",
+            "ders_oylama_csv": "https://docs.google.com/spreadsheets/d/1GCU_SMJ52QJnA1pdfukoYvB614qrwIoiH_xMGI-DTBU/export?format=csv&gid=928176871"
+        }
+    },
     "mufredat": {
         "secenekler": [
             "Her İki Müfredat",

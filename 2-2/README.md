@@ -12,9 +12,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSfTRJTTY53-Ug5jtBnOFHQ4I8-jfSLU2C8g_etgvA3y0Gb2bQ/viewform?usp=pp_url&entry.380326104=Elektronik%202) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSd5-R3qdn5BOVYy4Eb2TR-0Dj0-EbH724hWtz6OXWiyzjhPEg/viewform?usp=pp_url&entry.659808212=Elektronik%202) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -37,9 +37,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSfTRJTTY53-Ug5jtBnOFHQ4I8-jfSLU2C8g_etgvA3y0Gb2bQ/viewform?usp=pp_url&entry.380326104=Mukavemet) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSd5-R3qdn5BOVYy4Eb2TR-0Dj0-EbH724hWtz6OXWiyzjhPEg/viewform?usp=pp_url&entry.659808212=Mukavemet) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -62,9 +62,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** Her İki Müfredat
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSfTRJTTY53-Ug5jtBnOFHQ4I8-jfSLU2C8g_etgvA3y0Gb2bQ/viewform?usp=pp_url&entry.380326104=Elektrik%20Makineleri%20ve%20Uygulamalar%C4%B1) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSd5-R3qdn5BOVYy4Eb2TR-0Dj0-EbH724hWtz6OXWiyzjhPEg/viewform?usp=pp_url&entry.659808212=Elektrik%20Makineleri%20ve%20Uygulamalar%C4%B1) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -88,9 +88,9 @@
 - 🏷️ **Müfredat:** Her İki Müfredat
     - ℹ️ 2026 öncesi müfredatta 6. yarıyılda (3-2) yer alıyor.
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSfTRJTTY53-Ug5jtBnOFHQ4I8-jfSLU2C8g_etgvA3y0Gb2bQ/viewform?usp=pp_url&entry.380326104=Yapay%20Zeka%20Sistemleri) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSd5-R3qdn5BOVYy4Eb2TR-0Dj0-EbH724hWtz6OXWiyzjhPEg/viewform?usp=pp_url&entry.659808212=Yapay%20Zeka%20Sistemleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -114,9 +114,9 @@
 - 🏷️ **Müfredat:** 2026 Sonrası
     - ℹ️ 2026 öncesi müfredatta Mesleki Seçmeli havuzunda yer alıyor.
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSfTRJTTY53-Ug5jtBnOFHQ4I8-jfSLU2C8g_etgvA3y0Gb2bQ/viewform?usp=pp_url&entry.380326104=Sinyal%20%C4%B0%C5%9Fleme%20Teknikleri) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSd5-R3qdn5BOVYy4Eb2TR-0Dj0-EbH724hWtz6OXWiyzjhPEg/viewform?usp=pp_url&entry.659808212=Sinyal%20%C4%B0%C5%9Fleme%20Teknikleri) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ### 📘 Termodinamik
 
@@ -127,9 +127,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** 2026 Sonrası
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSfTRJTTY53-Ug5jtBnOFHQ4I8-jfSLU2C8g_etgvA3y0Gb2bQ/viewform?usp=pp_url&entry.380326104=Termodinamik) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSd5-R3qdn5BOVYy4Eb2TR-0Dj0-EbH724hWtz6OXWiyzjhPEg/viewform?usp=pp_url&entry.659808212=Termodinamik) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ### 📘 Nümerik Analiz
 
@@ -140,9 +140,9 @@
 - 🏫 **Ders Tipi:** Zorunlu
 - 🏷️ **Müfredat:** 2026 Sonrası
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSfTRJTTY53-Ug5jtBnOFHQ4I8-jfSLU2C8g_etgvA3y0Gb2bQ/viewform?usp=pp_url&entry.380326104=N%C3%BCmerik%20Analiz) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSd5-R3qdn5BOVYy4Eb2TR-0Dj0-EbH724hWtz6OXWiyzjhPEg/viewform?usp=pp_url&entry.659808212=N%C3%BCmerik%20Analiz) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ### 📘 Bilgisayar Destekli İmalat
 
@@ -154,9 +154,9 @@
 - 🏷️ **Müfredat:** 2026 Öncesi (Zorunlu)
     - ℹ️ 2026 sonrası müfredatta zorunlu değil, Mesleki Seçmeli havuzuna taşınmış.
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSfTRJTTY53-Ug5jtBnOFHQ4I8-jfSLU2C8g_etgvA3y0Gb2bQ/viewform?usp=pp_url&entry.380326104=Bilgisayar%20Destekli%20%C4%B0malat) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSd5-R3qdn5BOVYy4Eb2TR-0Dj0-EbH724hWtz6OXWiyzjhPEg/viewform?usp=pp_url&entry.659808212=Bilgisayar%20Destekli%20%C4%B0malat) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -185,9 +185,9 @@
 - 🏷️ **Müfredat:** 2026 Öncesi
     - ℹ️ 2026 sonrası müfredatta bu ders yok.
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSfTRJTTY53-Ug5jtBnOFHQ4I8-jfSLU2C8g_etgvA3y0Gb2bQ/viewform?usp=pp_url&entry.380326104=Termo-Ak%C4%B1%C5%9Fkan) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSd5-R3qdn5BOVYy4Eb2TR-0Dj0-EbH724hWtz6OXWiyzjhPEg/viewform?usp=pp_url&entry.659808212=Termo-Ak%C4%B1%C5%9Fkan) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 #### 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:

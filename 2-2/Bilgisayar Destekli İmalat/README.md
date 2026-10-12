@@ -6,9 +6,9 @@
 - 🏷️ **Müfredat:** 2026 Öncesi (Zorunlu)
     - ℹ️ 2026 sonrası müfredatta zorunlu değil, Mesleki Seçmeli havuzuna taşınmış.
 - ⭐ **Yıldız Sayıları:**
-    - ℹ️ Henüz yıldız veren yok.
+    - ℹ️ Henüz yıldız veren yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSfTRJTTY53-Ug5jtBnOFHQ4I8-jfSLU2C8g_etgvA3y0Gb2bQ/viewform?usp=pp_url&entry.380326104=Bilgisayar%20Destekli%20%C4%B0malat) anonim şekilde oylamaya katılabilirsiniz.
 - 💬 **Öğrenci Görüşleri:**
-    - ℹ️ Henüz yorum yok.
+    - ℹ️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSd5-R3qdn5BOVYy4Eb2TR-0Dj0-EbH724hWtz6OXWiyzjhPEg/viewform?usp=pp_url&entry.659808212=Bilgisayar%20Destekli%20%C4%B0malat) anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 👨‍🏫 👩‍🏫 Dersi Yürüten Akademisyenler:
 - **2025-2026**:
@@ -32,9 +32,9 @@
 Dersi 2024-2025 ve 2025-2026 akademik yıllarında veren hocalar. Yorumlar hocanın tüm derslerini kapsar.
 
 - **[Prof. Dr. Garip Genç](../../README.md#‍-prof-dr-garip-genç)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSfqY08FbRI_H4qhLwqeaIUbCaDnePai_3RHfHOKee2ZZriSHw/viewform?usp=pp_url&entry.1937243189=Prof.%20Dr.%20Garip%20Gen%C3%A7) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 - **[Dr. Öğretim Üyesi Ersin Toptaş](../../README.md#‍-dr-öğretim-üyesi-ersin-toptaş)**
-    - ✍️ Henüz yorum yok.
+    - ✍️ Henüz yorum yok. Siz de [linkten](https://docs.google.com/forms/d/e/1FAIpQLSfqY08FbRI_H4qhLwqeaIUbCaDnePai_3RHfHOKee2ZZriSHw/viewform?usp=pp_url&entry.1937243189=Dr.%20%C3%96%C4%9Fretim%20%C3%9Cyesi%20Ersin%20Topta%C5%9F) bu hoca hakkında anonim şekilde görüşlerinizi belirtebilirsiniz.
 
 ## 🤝 Katkıda Bulun
 
