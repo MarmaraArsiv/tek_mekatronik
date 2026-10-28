@@ -103,40 +103,40 @@ döneme değişebilir, kesin ve güncel bilgi için bölüm/fakülte öğrenci i
 
 ## 📊 Arşiv Doluluk Durumu
 
-Arşivdeki **148** dersin **0** tanesinde en az bir materyal var (genel doluluk **%0**).
+Arşivdeki **148** dersin **33** tanesinde en az bir materyal var (genel doluluk **%22**).
 
 ```mermaid
 pie showData
-  "Materyali olan" : 0
-  "Henüz boş" : 148
+  "Materyali olan" : 33
+  "Henüz boş" : 115
 ```
 
 | Dönem | Doluluk | Materyali olan ders |
 |---|---|---|
-| [1. Yıl Güz](./1-1/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 9 |
-| [1. Yıl Bahar](./1-2/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 9 |
-| [2. Yıl Güz](./2-1/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 12 |
-| [2. Yıl Bahar](./2-2/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 9 |
-| [3. Yıl Güz](./3-1/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 7 |
-| [3. Yıl Bahar](./3-2/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 5 |
+| [1. Yıl Güz](./1-1/) | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ %22 | 2 / 9 |
+| [1. Yıl Bahar](./1-2/) | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ %56 | 5 / 9 |
+| [2. Yıl Güz](./2-1/) | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ %50 | 6 / 12 |
+| [2. Yıl Bahar](./2-2/) | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ %67 | 6 / 9 |
+| [3. Yıl Güz](./3-1/) | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ %71 | 5 / 7 |
+| [3. Yıl Bahar](./3-2/) | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ %80 | 4 / 5 |
 | [4. Yıl Güz](./4-1/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 5 |
-| [4. Yıl Bahar](./4-2/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 5 |
-| [Mesleki Seçmeli](./Mesleki%20Seçmeli/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 64 |
+| [4. Yıl Bahar](./4-2/) | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ %20 | 1 / 5 |
+| [Mesleki Seçmeli](./Mesleki%20Seçmeli/) | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ %6 | 4 / 64 |
 | [Fakülte Teknik Seçmeli](./Fakülte%20Teknik%20Seçmeli/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 8 |
 | [Üniversite Seçmeli](./Üniversite%20Seçmeli/) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ %0 | 0 / 15 |
 
 ### 🙋 Bu dersler katkını bekliyor
 Elinde bu derslerden materyal varsa yukarıdaki **🤝 Katkıda Bulunun** bölümüne göz at.
 
-- **1. Yıl Güz:** Bilgisayar Destekli Çizim, Bilgisayar Sistemlerine Giriş, Fizik 1, İngilizce 1, İş Sağlığı ve Güvenliği 1, Lineer Cebir, Matematik 1, Mekatronik Mühendisliğine Giriş, Teknik Resim
-- **1. Yıl Bahar:** Bilgisayar Programlama, Devre Analizi, Fizik 2, İngilizce 2, İş Sağlığı ve Güvenliği 2, Kimya, Matematik 2, Mühendislik Mekaniği, Statik
-- **2. Yıl Güz:** Bilgisayar Destekli Tasarım, Diferansiyel Denklemler, Dinamik, Elektronik 1, İleri Programlama, İş Sağlığı ve Güvenliği, Malzeme ve Üretim Teknolojileri, Mantık Devreleri, Mühendisler için İstatistik, Ölçme Tekniği, Sayısal Sistemler, Temel Elektromanyetik
-- **2. Yıl Bahar:** Bilgisayar Destekli İmalat, Elektrik Makineleri ve Uygulamaları, Elektronik 2, Mukavemet, Nümerik Analiz, Sinyal İşleme Teknikleri, Termodinamik, Termo-Akışkan, Yapay Zeka Sistemleri
-- **3. Yıl Güz:** Hidrolik ve Pnömatik Sistemler, Mekanik Yapı Elemanları, Mikrodenetleyiciler, Programlanabilir Lojik Kontrolörler, Robot Tekniği, Staj 1, Teknik İngilizce 1
-- **3. Yıl Bahar:** Algılama ve Veri Toplama, Gömülü Sistemler ve Uygulamaları, Güç Elektroniği, Otomatik Kontrol Sistemleri, Teknik İngilizce 2
+- **1. Yıl Güz:** Bilgisayar Destekli Çizim, Fizik 1, İngilizce 1, İş Sağlığı ve Güvenliği 1, Lineer Cebir, Mekatronik Mühendisliğine Giriş, Teknik Resim
+- **1. Yıl Bahar:** Bilgisayar Programlama, İngilizce 2, İş Sağlığı ve Güvenliği 2, Mühendislik Mekaniği
+- **2. Yıl Güz:** Bilgisayar Destekli Tasarım, İleri Programlama, İş Sağlığı ve Güvenliği, Malzeme ve Üretim Teknolojileri, Mantık Devreleri, Ölçme Tekniği
+- **2. Yıl Bahar:** Nümerik Analiz, Sinyal İşleme Teknikleri, Termodinamik
+- **3. Yıl Güz:** Staj 1, Teknik İngilizce 1
+- **3. Yıl Bahar:** Teknik İngilizce 2
 - **4. Yıl Güz:** Atatürk İlkeleri ve İnkılap Tarihi 1, İş Hukuku ve Etiği, İş Yeri Eğitimi, Staj 2, Türk Dili 1
-- **4. Yıl Bahar:** Atatürk İlkeleri ve İnkılap Tarihi 2, Bitirme Projesi, Endüstriyel Haberleşme ve SCADA Uygulamaları, Görüntü İşleme, Türk Dili 2
-- **Mesleki Seçmeli:** Algılayıcılar ve Eyleyiciler, Bilgi Güvenliği, Biyomedikal Cihazlar, Biyomekatronik, Deneysel Metodlar, Deneysel Mukavemet, Eklemeli İmalat, Elektrik Motor Sürücüleri, Elektrikle Tahrik Sistemleri, Elektrikli Araç Teknolojileri, Elektromekanik Enerji Dönüşümü, Elektromekanik Kumanda Tekniği, Elektromekanik Sistemler, Endüstride Dijital Dönüşüm - Dijital Hamle-A, Endüstride Otomasyon Sistemleri ve Kestirimci Bakım Uygulamaları, Endüstriyel Kontrol ve Sürücü Sistemleri, Endüstriyel Ölçme, Enerji Depolama Sistemleri, Esnek İmalat Sistemleri, Esnek Robotik, Eşzamanlı Geometrik Boyutlandırma (CMM), İleri Bilgisayar Destekli İmalat, İleri Hidrolik Pnömatik Sistemler, İleri Otomatik Kontrol, İleri PLC ve SCADA Uygulamaları, İleri Robotik, İleri Tasarım ve Modelleme, İleri Üretim Teknolojileri, Java Programlama, Kablosuz Teknolojilere Giriş, Kalite Mühendisliği ve 6 Sigma Endüstriyel Uygulamaları, Konumlandırma Tekniği, Makine Öğrenmesi, Malzeme Bilimi ve Muayenesi, Malzemelerin Elektrik, Manyetik ve Optik Özellikleri, Mekanik Ölçme ve Endüstriyel Uygulamalar, Mekanik Sistemlerin Tasarımı ve Analizi, Mekatronik Sistem Elemanları, Mekatronik Sistem Tasarımı, MEMS Teknolojileri, Mikro Makineler, Modern Seyrüsefer Sistemleri, Nesne Tabanlı Programlama, Otomasyonda Özel Elektrik Makineleri, Otonom Robotlar, Proses Kontrol, Robotlu Kaynak Teknolojisi, Sanal Üretim Tasarımı ve Optimizasyonu, Sayısal Kontrol, Sensörler ve Algılayıcılar, Sistem Bakımı ve Hata Arama, Sistem Dinamiği ve Modelleme, Sonlu Elemanlara Giriş, Tahribatsız Malzeme Muayenesi, Tasarımda Sonlu Elemanlar Analizi, Taşıt Mekatroniği, Titreşim ve Akustik, Üretim Teknikleri ve Uygulamaları, Ürün Tasarımı ve Prototipleme, Veri Yapıları, Veri Yönetim Sistemleri, VHDL ile Dijital Sistem Tasarımı, Yarı İletken Cihazlar, Yarı İletken Fiziği
+- **4. Yıl Bahar:** Atatürk İlkeleri ve İnkılap Tarihi 2, Bitirme Projesi, Görüntü İşleme, Türk Dili 2
+- **Mesleki Seçmeli:** Algılayıcılar ve Eyleyiciler, Bilgi Güvenliği, Biyomedikal Cihazlar, Biyomekatronik, Deneysel Metodlar, Deneysel Mukavemet, Eklemeli İmalat, Elektrikle Tahrik Sistemleri, Elektrikli Araç Teknolojileri, Elektromekanik Enerji Dönüşümü, Elektromekanik Kumanda Tekniği, Elektromekanik Sistemler, Endüstride Dijital Dönüşüm - Dijital Hamle-A, Endüstride Otomasyon Sistemleri ve Kestirimci Bakım Uygulamaları, Endüstriyel Kontrol ve Sürücü Sistemleri, Esnek İmalat Sistemleri, Esnek Robotik, Eşzamanlı Geometrik Boyutlandırma (CMM), İleri Bilgisayar Destekli İmalat, İleri Hidrolik Pnömatik Sistemler, İleri Otomatik Kontrol, İleri PLC ve SCADA Uygulamaları, İleri Tasarım ve Modelleme, İleri Üretim Teknolojileri, Java Programlama, Kablosuz Teknolojilere Giriş, Kalite Mühendisliği ve 6 Sigma Endüstriyel Uygulamaları, Konumlandırma Tekniği, Makine Öğrenmesi, Malzeme Bilimi ve Muayenesi, Malzemelerin Elektrik, Manyetik ve Optik Özellikleri, Mekanik Ölçme ve Endüstriyel Uygulamalar, Mekanik Sistemlerin Tasarımı ve Analizi, Mekatronik Sistem Elemanları, Mekatronik Sistem Tasarımı, MEMS Teknolojileri, Mikro Makineler, Modern Seyrüsefer Sistemleri, Nesne Tabanlı Programlama, Otomasyonda Özel Elektrik Makineleri, Otonom Robotlar, Proses Kontrol, Robotlu Kaynak Teknolojisi, Sanal Üretim Tasarımı ve Optimizasyonu, Sayısal Kontrol, Sensörler ve Algılayıcılar, Sistem Bakımı ve Hata Arama, Sistem Dinamiği ve Modelleme, Sonlu Elemanlara Giriş, Tahribatsız Malzeme Muayenesi, Tasarımda Sonlu Elemanlar Analizi, Taşıt Mekatroniği, Titreşim ve Akustik, Üretim Teknikleri ve Uygulamaları, Ürün Tasarımı ve Prototipleme, Veri Yapıları, Veri Yönetim Sistemleri, VHDL ile Dijital Sistem Tasarımı, Yarı İletken Cihazlar, Yarı İletken Fiziği
 - **Fakülte Teknik Seçmeli:** Araştırma Planlama ve Yönetimi, Bilgi Sistemleri Yönetimi, Çok Disiplinli Takım Çalışması Deneyimi, Disiplinler Arası Proje Tasarımı, Mühendisler için Proje Yönetimi, Mühendislik ve Teknoloji Yönetimi, Veri Bilimi ve Veri Analitiğine Giriş, Yazılım Proje Yönetimi
 - **Üniversite Seçmeli:** Bilim Tarihi, Çevre ve Enerji, Fizibilite Hazırlama ve Uygulamaları, Girişimcilik, Girişimcilik ve İnovasyon, İş Psikolojisi, Kalite Yönetimi, Liderlik, Moda, Osmanlı Tarihi, Rapor Hazırlama ve Sunum Teknikleri, Sosyal Organizasyon, Teknik İletişim, Teknik Satış ve Pazarlama, Teknoloji Yönetimi
 
@@ -2269,6 +2269,9 @@ Son iki akademik yılda bölümde dersi görünmeyen hocalar.
 <h2 align='center'>🤝 Katkıda Bulunanlar</h2>
 
 Bu bölümde reponun hazırlanmasında katkıda bulunan insanlar listelenmiştir. Pull request ile katkıda bulunanlar bu listeye otomatik olarak eklenir. Nasıl katkıda bulunabileceğini README'nin başındaki **🤝 Katkıda Bulunun** bölümünde ve [CONTRIBUTING.md](CONTRIBUTING.md) dosyasında bulabilirsin. Burada isminin yer alması için bölüm dersleriyle alakalı, elle tutulur bir katkı yapman beklenir. 📝 README.md dosyaları otomatik olarak oluşturulduğu için README hatalarını doğrudan düzeltmek yerine bize bildirmen yeterli.
+
+<p align='center'><a href='https://github.com/ism00efe'><img src='https://github.com/ism00efe.png?size=200' width='100' alt='İsmail Efe Terlemez'></a></p>
+<h1 align='center'>⭐ <b><i>İsmail Efe Terlemez</i></b> ⭐<br><sub><a href='https://github.com/ism00efe'>GitHub</a></sub></h1>
 
 </details>
 
