@@ -1,0 +1,20 @@
+=== MEKANİK YAPI ELEMANLARI 2015-2016 FİNAL SORULARI VE MARMATEK NOTLARI ===
+
+soru 1: prob 456 ilk sorusu (marmatek)
+mil çapı
+burulma açısı
+matematik problemi
+
+soru 2: uygu kaması standart gösterimi, kesme kuvveti, gerilmeyle ilgili bir şey
+bilgi sorusu
+
+soru 3: tolerans
+a)nasıl bir geçme, nerelerde kullanılır
+b)tablodan değerlere bakıp şekil çiz
+c)en büyük boşluk ve en büyük sıklık
+
+soru 4: rulmanlarla ilgili boşluk doldurma. 1088
+
+genel olarak marmatekten çıktı
+
+vizede marmatekten 2 tane soru çıktı
