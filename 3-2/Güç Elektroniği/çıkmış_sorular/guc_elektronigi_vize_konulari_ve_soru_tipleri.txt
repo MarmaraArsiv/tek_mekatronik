@@ -1,0 +1,7 @@
+=== GÜÇ ELEKTRONİĞİ VİZE KONULARI VE SORU TİPLERİ ===
+
+1 tane snubber devresi işlem sorusu
+1 tane yarım veya tam dalga ile ilgili sözel soru
+1 tane scr işlem sorusu(bobin varken ,direnç varken ki durumlarını sordu.)
+1 tane scr işlem sorusu (belli açılardaki yük direncindeki akımın ortalama değeri)
+
