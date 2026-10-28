@@ -1,0 +1,7 @@
+=== OTOMATİK KONTROL VİZE KONULARI (2 LAPLACE, 2 BLOK İNDİRGEME, 1 TRANSFER FONKSİYONU) ===
+
+2 tane laplace 
+2 tane blok indirgeme(1 tanesi sinyal akışına göre indirgeme- 1 tanesi ise kademeli indirgeme)
+1 tane elektrik devresinin transfer fonksiyonu
+
+Not: Otomatik kontrol final konularını bulunca atacağım.

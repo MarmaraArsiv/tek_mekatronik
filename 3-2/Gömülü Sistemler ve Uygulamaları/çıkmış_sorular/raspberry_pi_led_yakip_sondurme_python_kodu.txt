@@ -1,0 +1,3 @@
+=== GÖMÜLÜ SİSTEMLER FİNAL SORUSU VE KODU ===
+
+raspberry pi nin 11. pinini kullnarak bir ledin 50 defa yanıp sönmesini sağlayan python kodu nedir 20puan

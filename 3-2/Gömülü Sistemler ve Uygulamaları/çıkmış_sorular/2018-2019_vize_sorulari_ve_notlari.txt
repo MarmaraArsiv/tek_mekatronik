@@ -1,0 +1,5 @@
+=== GÖMÜLÜ SİSTEMLER 2018-2019 VİZE NOTLARI (TEST SORULARI) ===
+
+20 soru test yaptı
+yaklaşık 17-18 tanesi geçen senedendi
+farklı sorduğu sorularda şunları sordu: isupper ve patrition komutları

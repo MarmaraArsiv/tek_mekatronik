@@ -1,0 +1,8 @@
+=== ALGILAMA VE VERİ TOPLAMA VİZE SORU LİSTESİ ===
+
+1) Doğruluk ve duyarlılık
+2)veri edinim donanımı ne iş yapar ne işe yarar
+3) RTD devreleri 
+( formülleri ve şekilleri ile eksiksiz açıklama )
+
+4)wheatson köprüsü
