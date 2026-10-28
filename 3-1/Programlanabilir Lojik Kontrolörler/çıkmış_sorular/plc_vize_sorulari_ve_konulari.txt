@@ -1,0 +1,6 @@
+=== PROGRAMLANABİLİR LOJİK KONTROLÖRLER (PLC) VİZE SORULARI ===
+
+1-PLC yapısı çiz açıkla
+2-Zamanlayıcılar (timers) kaç çeşittir açıklayınız
+3-Ledder vermiş STL ini istiyo
+4-Resimdeki elma konveyör hattı, ledder ını çiz, stl ini yaz
